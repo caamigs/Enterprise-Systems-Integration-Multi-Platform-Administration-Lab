@@ -1,7 +1,5 @@
 # Enterprise-Systems-Integration-Multi-Platform-Administration-Lab
 
-# Enterprise Systems Integration: Multi-Platform Administration Lab
-
 ![Project Status](https://img.shields.io/badge/status-completed-success)
 ![Course](https://img.shields.io/badge/course-Georgian%20College%20at%20ILAC-blue)
 ![Date](https://img.shields.io/badge/completed-October%202024-lightgrey)
